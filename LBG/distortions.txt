@@ -1,0 +1,70 @@
+
+
+
+for codebook of size	 1 
+for count 0:->  old distortion is:  0.000000  and new distortion is:  1.059551  and difference  is:-> 1.059551
+for count 1:->  old distortion is:  1.059551  and new distortion is:  1.059551  and difference  is:-> 0.000000
+
+final  distortion  D is :->  1.059551  
+
+
+
+for codebook of size	 2 
+for count 0:->  old distortion is:  0.000000  and new distortion is:  1.189061  and difference  is:-> 1.189061
+for count 1:->  old distortion is:  1.189061  and new distortion is:  1.386319  and difference  is:-> 0.197258
+for count 2:->  old distortion is:  1.386319  and new distortion is:  1.516747  and difference  is:-> 0.130428
+for count 3:->  old distortion is:  1.516747  and new distortion is:  1.537349  and difference  is:-> 0.020602
+for count 4:->  old distortion is:  1.537349  and new distortion is:  1.543415  and difference  is:-> 0.006066
+for count 5:->  old distortion is:  1.543415  and new distortion is:  1.541900  and difference  is:-> 0.001516
+for count 6:->  old distortion is:  1.541900  and new distortion is:  1.541432  and difference  is:-> 0.000467
+for count 7:->  old distortion is:  1.541432  and new distortion is:  1.541016  and difference  is:-> 0.000417
+for count 8:->  old distortion is:  1.541016  and new distortion is:  1.540966  and difference  is:-> 0.000049
+for count 9:->  old distortion is:  1.540966  and new distortion is:  1.540703  and difference  is:-> 0.000264
+for count 10:->  old distortion is:  1.540703  and new distortion is:  1.540739  and difference  is:-> 0.000037
+for count 11:->  old distortion is:  1.540739  and new distortion is:  1.540571  and difference  is:-> 0.000168
+for count 12:->  old distortion is:  1.540571  and new distortion is:  1.540520  and difference  is:-> 0.000051
+for count 13:->  old distortion is:  1.540520  and new distortion is:  1.540298  and difference  is:-> 0.000222
+for count 14:->  old distortion is:  1.540298  and new distortion is:  1.540270  and difference  is:-> 0.000028
+for count 15:->  old distortion is:  1.540270  and new distortion is:  1.540289  and difference  is:-> 0.000020
+for count 16:->  old distortion is:  1.540289  and new distortion is:  1.540289  and difference  is:-> 0.000000
+
+final  distortion  D is :->  1.540289  
+
+
+
+for codebook of size	 4 
+for count 0:->  old distortion is:  0.000000  and new distortion is:  1.807360  and difference  is:-> 1.807360
+for count 1:->  old distortion is:  1.807360  and new distortion is:  1.954598  and difference  is:-> 0.147238
+for count 2:->  old distortion is:  1.954598  and new distortion is:  1.957137  and difference  is:-> 0.002540
+for count 3:->  old distortion is:  1.957137  and new distortion is:  1.943976  and difference  is:-> 0.013161
+for count 4:->  old distortion is:  1.943976  and new distortion is:  1.941716  and difference  is:-> 0.002261
+for count 5:->  old distortion is:  1.941716  and new distortion is:  1.945218  and difference  is:-> 0.003502
+for count 6:->  old distortion is:  1.945218  and new distortion is:  1.946848  and difference  is:-> 0.001630
+for count 7:->  old distortion is:  1.946848  and new distortion is:  1.947428  and difference  is:-> 0.000581
+for count 8:->  old distortion is:  1.947428  and new distortion is:  1.947654  and difference  is:-> 0.000225
+for count 9:->  old distortion is:  1.947654  and new distortion is:  1.947649  and difference  is:-> 0.000005
+for count 10:->  old distortion is:  1.947649  and new distortion is:  1.947649  and difference  is:-> 0.000000
+
+final  distortion  D is :->  1.947649  
+
+
+
+for codebook of size	 8 
+for count 0:->  old distortion is:  0.000000  and new distortion is:  2.121465  and difference  is:-> 2.121465
+for count 1:->  old distortion is:  2.121465  and new distortion is:  2.210359  and difference  is:-> 0.088894
+for count 2:->  old distortion is:  2.210359  and new distortion is:  2.246338  and difference  is:-> 0.035978
+for count 3:->  old distortion is:  2.246338  and new distortion is:  2.253304  and difference  is:-> 0.006966
+for count 4:->  old distortion is:  2.253304  and new distortion is:  2.255503  and difference  is:-> 0.002199
+for count 5:->  old distortion is:  2.255503  and new distortion is:  2.257310  and difference  is:-> 0.001808
+for count 6:->  old distortion is:  2.257310  and new distortion is:  2.262006  and difference  is:-> 0.004695
+for count 7:->  old distortion is:  2.262006  and new distortion is:  2.262392  and difference  is:-> 0.000387
+for count 8:->  old distortion is:  2.262392  and new distortion is:  2.264632  and difference  is:-> 0.002239
+for count 9:->  old distortion is:  2.264632  and new distortion is:  2.263982  and difference  is:-> 0.000650
+for count 10:->  old distortion is:  2.263982  and new distortion is:  2.265535  and difference  is:-> 0.001553
+for count 11:->  old distortion is:  2.265535  and new distortion is:  2.266551  and difference  is:-> 0.001016
+for count 12:->  old distortion is:  2.266551  and new distortion is:  2.267364  and difference  is:-> 0.000812
+for count 13:->  old distortion is:  2.267364  and new distortion is:  2.267508  and difference  is:-> 0.000145
+for count 14:->  old distortion is:  2.267508  and new distortion is:  2.267582  and difference  is:-> 0.000074
+for count 15:->  old distortion is:  2.267582  and new distortion is:  2.267582  and difference  is:-> 0.000000
+
+final  distortion  D is :->  2.267582  
