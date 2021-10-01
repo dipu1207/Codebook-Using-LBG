@@ -79,7 +79,7 @@ long double calculateTokhura(long double tempUniverse[],long double tempCodebook
 	for(int i=0;i<12;i++)
 		distance+=tokhuraWeight[i]*((tempUniverse[i] - tempCodebook[i])*(tempUniverse[i]- tempCodebook[i]));
 		
-	distance/=12;
+	
 	return distance;
 }
 
@@ -150,9 +150,10 @@ long double totalDistortion()
 	   //now read all vector whose index is in array region[itrCodebook];
 		for(int col=0;col<region_size[itrCodebook];col++)
 		{
+			int x=regions[itrCodebook][col];
 			long double regionvector[12];
 			for(int i=0;i<12;i++)
-				regionvector[i]=universeArray[col][i];
+				regionvector[i]=universeArray[x][i];
 
 			avgDistortion+=calculateTokhura(regionvector,codevector);
 
@@ -269,7 +270,7 @@ void split()
 	   }
 	}
 }
-
+//to fill new codebook entries from previos entries
 void fillCodebook()
 {
 	long double temp1[12],temp2[12];
@@ -295,6 +296,7 @@ void fillCodebook()
 		row++;
 	}
 }
+
 void LBG()
 {
  

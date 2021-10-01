@@ -1,23 +1,23 @@
-﻿Build started 26/09/2021 14:33:58.
-     1>Project "F:\sem 1\speech processing\assignment\LBG\LBG\LBG.vcxproj" on node 2 (build target(s)).
+﻿Build started 01/10/2021 08:31:25.
+     1>Project "F:\sem 1\speech processing\assignment\214101063_sp_assignement_4\214101063_LBG\LBG\LBG.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\LBG.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
          All outputs are up-to-date.
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\LBG.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt LBG.cpp
          LBG.cpp
-     1>f:\sem 1\speech processing\assignment\lbg\lbg\lbg.cpp(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>f:\sem 1\speech processing\assignment\214101063_sp_assignement_4\214101063_lbg\lbg\lbg.cpp(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
-     1>f:\sem 1\speech processing\assignment\lbg\lbg\lbg.cpp(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>f:\sem 1\speech processing\assignment\214101063_sp_assignement_4\214101063_lbg\lbg\lbg.cpp(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
-     1>f:\sem 1\speech processing\assignment\lbg\lbg\lbg.cpp(30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>f:\sem 1\speech processing\assignment\214101063_sp_assignement_4\214101063_lbg\lbg\lbg.cpp(30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
-     1>f:\sem 1\speech processing\assignment\lbg\lbg\lbg.cpp(41): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>f:\sem 1\speech processing\assignment\214101063_sp_assignement_4\214101063_lbg\lbg\lbg.cpp(41): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
        ManifestResourceCompile:
          All outputs are up-to-date.
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\sem 1\speech processing\assignment\LBG\Debug\LBG.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LBG.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\sem 1\speech processing\assignment\LBG\Debug\LBG.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\sem 1\speech processing\assignment\LBG\Debug\LBG.lib" /MACHINE:X86 Debug\LBG.exe.embed.manifest.res
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\sem 1\speech processing\assignment\214101063_sp_assignement_4\214101063_LBG\Debug\LBG.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LBG.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\sem 1\speech processing\assignment\214101063_sp_assignement_4\214101063_LBG\Debug\LBG.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\sem 1\speech processing\assignment\214101063_sp_assignement_4\214101063_LBG\Debug\LBG.lib" /MACHINE:X86 Debug\LBG.exe.embed.manifest.res
          Debug\LBG.obj
          Debug\stdafx.obj
        Manifest:
@@ -25,12 +25,12 @@
          All outputs are up-to-date.
        LinkEmbedManifest:
          All outputs are up-to-date.
-         LBG.vcxproj -> F:\sem 1\speech processing\assignment\LBG\Debug\LBG.exe
+         LBG.vcxproj -> F:\sem 1\speech processing\assignment\214101063_sp_assignement_4\214101063_LBG\Debug\LBG.exe
        FinalizeBuildStatus:
          Deleting file "Debug\LBG.unsuccessfulbuild".
          Touching "Debug\LBG.lastbuildstate".
-     1>Done Building Project "F:\sem 1\speech processing\assignment\LBG\LBG\LBG.vcxproj" (build target(s)).
+     1>Done Building Project "F:\sem 1\speech processing\assignment\214101063_sp_assignement_4\214101063_LBG\LBG\LBG.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.26
+Time Elapsed 00:00:00.63
